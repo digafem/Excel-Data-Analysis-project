@@ -3,7 +3,7 @@
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 
 ## Dataset used
-- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href="https://github.com/digafem/Excel-Data-Analysis-project/blob/main/das%20board.png">Dataset</a>
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
@@ -26,7 +26,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/digafem/Excel-Data-Analysis-project/blob/main/README.md))
+![Screenshot (495)](https://github.com/digafem/Excel-Data-Analysis-project/blob/main/das%20board.png))
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
@@ -36,5 +36,5 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - More than 90% of the products delivered
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To improve the sales of the Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
