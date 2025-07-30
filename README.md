@@ -1,6 +1,6 @@
 # Excel-Data-Analysis-projec
 ## Project Objective
-The Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+The Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2026 & 2027.
 
 ## Dataset used
 - <a href="https://github.com/digafem/Excel-Data-Analysis-project/blob/main/Excel%20Data%20Analysis%20project.xlsx">Dataset</a>
